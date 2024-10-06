@@ -32,6 +32,6 @@
 **🤝 Collaborative Communication:** Excellent interpersonal skills, adept at conveying technical information to non-technical stakeholders in a clear and concise manner.
 
 **PROJECTS:**
+
 In the **Sentiment Insights: Analyzing ChatGPT User Reviews** project, I employed natural language processing (NLP) techniques to evaluate user feedback on ChatGPT. Utilizing Python libraries like VADER for sentiment analysis, I categorized reviews into positive, neutral, and negative sentiments. Data preprocessing techniques such as tokenization and stopword removal were implemented, and the results were visualized with Plotly. This project showcases my expertise in sentiment analysis and data visualization, yielding actionable insights based on user feedback trends.
 
-You can view the project here
