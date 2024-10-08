@@ -70,7 +70,8 @@
 - Project Management
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Salma=Salma&show_icons=true&theme=radical)
+![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salma0-8&show_icons=true&theme=radical)
+
 
 **PROJECTS:**
 
