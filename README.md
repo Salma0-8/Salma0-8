@@ -32,15 +32,43 @@
 **🤝 Collaborative Communication:** Excellent interpersonal skills, adept at conveying technical information to non-technical stakeholders in a clear and concise manner.
 
 ## 🛠️ Skills
-- **Programming Languages**: 
-  ![Python](https://img.shields.io/badge/Python-3.8-brightgreen) 
-  ![R](https://img.shields.io/badge/R-4.1.0-blue) 
-- **Data Analysis Tools**: 
-  ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-orange)
-  ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-red)
-- **Machine Learning Frameworks**: 
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-lightblue)
+
+### **Programming Languages**
+- ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
+- ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-orange)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
+### **Data Analysis & Visualization Tools**
+- ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-orange)
+- ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-red)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
+- ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-pink)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-2.93.903.0-orange)
+
+### **Machine Learning & Deep Learning Frameworks**
+- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-lightblue)
+- ![Keras](https://img.shields.io/badge/Keras-2.6.0-orange)
+- ![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-red)
+
+### **Statistical Analysis**
+- ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.12.2-blue)
+- ![SciPy](https://img.shields.io/badge/SciPy-1.7.1-orange)
+
+### **Financial & Business Analytics**
+- Financial Modeling & Analysis
+- Time Series Analysis
+- Risk Management Techniques
+- Market Research & Consumer Behavior Analysis
+- Predictive Analytics
+
+### **Soft Skills**
+- Analytical Thinking
+- Problem Solving
+- Communication Skills
+- Team Collaboration
+- Project Management
+
 
 **PROJECTS:**
 
