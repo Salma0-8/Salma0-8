@@ -31,6 +31,17 @@
 
 **🤝 Collaborative Communication:** Excellent interpersonal skills, adept at conveying technical information to non-technical stakeholders in a clear and concise manner.
 
+## 🛠️ Skills
+- **Programming Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3.8-brightgreen) 
+  ![R](https://img.shields.io/badge/R-4.1.0-blue) 
+- **Data Analysis Tools**: 
+  ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-orange)
+  ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-red)
+- **Machine Learning Frameworks**: 
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-lightblue)
+
 **PROJECTS:**
 
 In the **Sentiment Insights: Analyzing ChatGPT User Reviews** project, I employed natural language processing (NLP) techniques to evaluate user feedback on ChatGPT. Utilizing Python libraries like VADER for sentiment analysis, I categorized reviews into positive, neutral, and negative sentiments. Data preprocessing techniques such as tokenization and stopword removal were implemented, and the results were visualized with Plotly. This project showcases my expertise in sentiment analysis and data visualization, yielding actionable insights based on user feedback trends.
