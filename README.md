@@ -1,10 +1,4 @@
-### 🎉 Welcome to My GitHub Profile!
-
-![Hello](https://pin.it/1r8EoK8U5)
-
-
-
-I’m Salma, a business student specializing in data analysis and machine learning. Check out my projects below!
+### 🍒 Welcome to My GitHub Profile!
 
 **📊 Data Analysis and Interpretation:** Expert in data cleaning, transformation, and exploratory data analysis (EDA) employing Python, Pandas, and SQL to derive actionable insights from complex datasets.
 
