@@ -78,13 +78,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salma0-8&theme=radical)
 
-![GitHub Snake Animation](https://github.com/Salma0-8/Salma0-8/blob/output/github-contribution-grid-snake.svg)
-
-![Coding GIF](https://media.giphy.com/media/YOUR_GIF_LINK_HERE/giphy.gif)
-
-<img src="https://example.com/3d-avatar.png" width="150" height="150">
-
-
 **PROJECTS:**
 
 In the **Sentiment Insights: Analyzing ChatGPT User Reviews** project, I employed natural language processing (NLP) techniques to evaluate user feedback on ChatGPT. Utilizing Python libraries like VADER for sentiment analysis, I categorized reviews into positive, neutral, and negative sentiments. Data preprocessing techniques such as tokenization and stopword removal were implemented, and the results were visualized with Plotly. This project showcases my expertise in sentiment analysis and data visualization, yielding actionable insights based on user feedback trends.
