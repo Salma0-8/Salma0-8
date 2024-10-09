@@ -72,6 +72,11 @@
 ## 📈 GitHub Stats
 ![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salma0-8&show_icons=true&theme=radical)
 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Salma0-8)
+![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salma0-8&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salma0-8&theme=radical)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)
 
 **PROJECTS:**
 
