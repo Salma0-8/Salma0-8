@@ -1,4 +1,8 @@
-**Skills:**
+### 🎉 Welcome to My GitHub Profile!
+
+![Coding GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+
+I’m Salma, a business student specializing in data analysis and machine learning. Check out my projects below!
 
 **📊 Data Analysis and Interpretation:** Expert in data cleaning, transformation, and exploratory data analysis (EDA) employing Python, Pandas, and SQL to derive actionable insights from complex datasets.
 
@@ -85,3 +89,5 @@ In the **Sentiment Insights: Analyzing ChatGPT User Reviews** project, I employe
 In the **EA Stocks Financial Analysis with Prophet and Plotly** project, I performed a time series analysis using Facebook Prophet to forecast EA stock trends. I integrated Python and Plotly for interactive financial visualizations, highlighting stock price movement and patterns. The project involved data preprocessing, trend analysis, and creating advanced visual representations to aid decision-making in financial markets.
 
 In **S&P 500 Stocks Time Series Regression** project, I conducted a time series regression analysis on S&P 500 stock data to identify trends and patterns affecting stock prices. Utilizing advanced statistical techniques and machine learning models, I forecasted future stock performance and visualized the results for clear interpretation. This approach provided valuable insights for investment decisions.
+
+In **Loan Risk Forecasting: ML and Financial Analysis** project, I utilized advanced machine learning techniques, including Random Forest and XGBoost, for loan status prediction. I implemented SHAP for interpretability, allowing insights into model predictions. Hyperparameter tuning was conducted to optimize model performance, assessed using ROC and AUC metrics. Additionally, I integrated financial analysis to enhance the predictive capability and relevance of the models within a financial context.
