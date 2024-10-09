@@ -1,6 +1,8 @@
 ### 🎉 Welcome to My GitHub Profile!
 
-![Coding GIF](https://media.giphy.com/media/your-gif-id/giphy.gif)
+![Hello](https://pin.it/1r8EoK8U5)
+
+
 
 I’m Salma, a business student specializing in data analysis and machine learning. Check out my projects below!
 
