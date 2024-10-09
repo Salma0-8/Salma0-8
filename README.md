@@ -46,7 +46,8 @@
 - ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-pink)
 - ![Power BI](https://img.shields.io/badge/Power%20BI-2.93.903.0-orange)
 
-### **Machine Learning & Deep Learning Frameworks** ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)
+### **Machine Learning & Deep Learning Frameworks**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)
 - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-lightblue)
 - ![Keras](https://img.shields.io/badge/Keras-2.6.0-orange)
@@ -76,6 +77,8 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Salma0-8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salma0-8&theme=radical)
+
+![GitHub Contributions Graph](https://activity-graph.herokuapp.com/graph?username=Salma0-8&theme=react-dark)
 
 
 **PROJECTS:**
