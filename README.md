@@ -70,7 +70,7 @@
 - Communication Skills
 - Team Collaboration
 - Project Management
-
+[![](https://visitcount.itsvg.in/api?id=salma22&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 ## 📈 GitHub Stats
 ![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salma0-8&show_icons=true&theme=radical)
 
