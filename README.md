@@ -1,4 +1,4 @@
-### 🍒 Welcome to My GitHub Profile!  [![](https://visitcount.itsvg.in/api?id=salma22&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
+### 🍒 Welcome to My GitHub Profile!  
 
 **📊 Data Analysis and Interpretation:** Expert in data cleaning, transformation, and exploratory data analysis (EDA) employing Python, Pandas, and SQL to derive actionable insights from complex datasets.
 
@@ -70,7 +70,9 @@
 - Communication Skills
 - Team Collaboration
 - Project Management
+- 
 [![](https://visitcount.itsvg.in/api?id=salma22&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
+
 ## 📈 GitHub Stats
 ![Salma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Salma0-8&show_icons=true&theme=radical)
 
