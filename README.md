@@ -1,4 +1,4 @@
-### 🍒 Welcome to My GitHub Profile!
+### 🍒 Welcome to My GitHub Profile!  [![](https://visitcount.itsvg.in/api?id=salma22&label=Profile%20Views&color=10&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 **📊 Data Analysis and Interpretation:** Expert in data cleaning, transformation, and exploratory data analysis (EDA) employing Python, Pandas, and SQL to derive actionable insights from complex datasets.
 
