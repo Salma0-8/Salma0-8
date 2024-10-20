@@ -79,15 +79,3 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Salma0-8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salma0-8&theme=radical)
-
-**PROJECTS:**
-
-In the **Sentiment Insights: Analyzing ChatGPT User Reviews** project, I employed natural language processing (NLP) techniques to evaluate user feedback on ChatGPT. Utilizing Python libraries like VADER for sentiment analysis, I categorized reviews into positive, neutral, and negative sentiments. Data preprocessing techniques such as tokenization and stopword removal were implemented, and the results were visualized with Plotly. This project showcases my expertise in sentiment analysis and data visualization, yielding actionable insights based on user feedback trends.
-
-In the **EA Stocks Financial Analysis with Prophet and Plotly** project, I performed a time series analysis using Facebook Prophet to forecast EA stock trends. I integrated Python and Plotly for interactive financial visualizations, highlighting stock price movement and patterns. The project involved data preprocessing, trend analysis, and creating advanced visual representations to aid decision-making in financial markets.
-
-In **S&P 500 Stocks Time Series Regression** project, I conducted a time series regression analysis on S&P 500 stock data to identify trends and patterns affecting stock prices. Utilizing advanced statistical techniques and machine learning models, I forecasted future stock performance and visualized the results for clear interpretation. This approach provided valuable insights for investment decisions.
-
-In **Loan Risk Forecasting: ML and Financial Analysis** project, I utilized advanced machine learning techniques, including Random Forest and XGBoost, for loan status prediction. I implemented SHAP for interpretability, allowing insights into model predictions. Hyperparameter tuning was conducted to optimize model performance, assessed using ROC and AUC metrics. Additionally, I integrated financial analysis to enhance the predictive capability and relevance of the models within a financial context.
-
-In the **Youth Suicide Risk Insights** project,  I leveraged Python libraries like Pandas, NumPy, and Seaborn for data preprocessing and visualization. I applied machine learning models such as Random Forest and Logistic Regression for risk prediction, with techniques like PCA and t-SNE for dimensionality reduction. Tools like SHAP were used for model interpretability, and metrics such as ROC AUC and F1 score ensured model performance evaluation.
