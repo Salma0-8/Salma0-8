@@ -34,28 +34,16 @@
 ## 🛠️ Skills
 
 ### **Programming Languages**
-- ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)
-- ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-orange)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+- ![Python](https://img.shields.io/badge/Python-3.8-brightgreen)  - ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-orange)  - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 
 ### **Data Analysis & Visualization Tools**
-![Python](https://img.shields.io/badge/Python-3.9-blue)
-- ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-orange)
-- ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-red)
-- ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue)
-- ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-pink)
-- ![Power BI](https://img.shields.io/badge/Power%20BI-2.93.903.0-orange)
+![Python](https://img.shields.io/badge/Python-3.9-blue) - ![Pandas](https://img.shields.io/badge/Pandas-1.3.3-orange) - ![NumPy](https://img.shields.io/badge/NumPy-1.21.2-red) - ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.4.3-blue) - ![Seaborn](https://img.shields.io/badge/Seaborn-0.11.2-pink) - ![Power BI](https://img.shields.io/badge/Power%20BI-2.93.903.0-orange)
 
 ### **Machine Learning & Deep Learning Frameworks**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green)
-- ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-lightblue)
-- ![Keras](https://img.shields.io/badge/Keras-2.6.0-orange)
-- ![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-red)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-green) - ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0.24.2-yellow) - ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.6.0-lightblue) - ![Keras](https://img.shields.io/badge/Keras-2.6.0-orange) - ![PyTorch](https://img.shields.io/badge/PyTorch-1.9.0-red)
 
 ### **Statistical Analysis**
-- ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.12.2-blue)
-- ![SciPy](https://img.shields.io/badge/SciPy-1.7.1-orange)
+- ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.12.2-blue) - ![SciPy](https://img.shields.io/badge/SciPy-1.7.1-orange)
 
 ### **Financial & Business Analytics**
 - Financial Modeling & Analysis
@@ -70,7 +58,6 @@
 - Communication Skills
 - Team Collaboration
 - Project Management
-- 
 [![](https://visitcount.itsvg.in/api?id=salma22&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📈 GitHub Stats
