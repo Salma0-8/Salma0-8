@@ -46,18 +46,10 @@
 - ![Statsmodels](https://img.shields.io/badge/Statsmodels-0.12.2-blue) - ![SciPy](https://img.shields.io/badge/SciPy-1.7.1-orange)
 
 ### **Financial & Business Analytics**
-- Financial Modeling & Analysis
-- Time Series Analysis
-- Risk Management Techniques
-- Market Research & Consumer Behavior Analysis
-- Predictive Analytics
+- Financial Modeling & Analysis - Time Series Analysis - Risk Management Techniques - Market Research & Consumer Behavior Analysis - Predictive Analytics
 
 ### **Soft Skills**
-- Analytical Thinking
-- Problem Solving
-- Communication Skills
-- Team Collaboration
-- Project Management
+- Analytical Thinking - Problem Solving - Communication Skills - Team Collaboration - Project Management
 [![](https://visitcount.itsvg.in/api?id=salma22&label=Profile%20Views&color=0&icon=3&pretty=false)](https://visitcount.itsvg.in)
 
 ## 📈 GitHub Stats
