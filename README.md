@@ -58,3 +58,13 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Salma0-8)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Salma0-8&theme=radical)
+
+## Star History
+
+<a href="https://star-history.com/#idimetrix/idimetrix&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=idimetrix/idimetrix&type=Date" />
+ </picture>
+</a>
